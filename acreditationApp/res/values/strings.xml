@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, calisanQrTara!</string>
+    <string name="app_name">AcreditationApp</string>
+    <string name="Bolge1Renk">#00ff00</string>
+    <string name="Bolge2Renk">#0000ff</string>
+    <string name="Bolge3Renk">#ff0000</string>
+    
+    
+</resources>
